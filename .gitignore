@@ -1,0 +1,21 @@
+﻿# Data (do NOT push the Kaggle CSV)
+creditcard.csv
+*.csv
+
+# Outputs / figures
+outputs/
+outputs_fast/
+*.png
+*.pdf
+*.svg
+
+# Python cache & envs
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editors / OS
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
