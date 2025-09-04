@@ -81,7 +81,7 @@ This project therefore focuses on a lighter pipeline, which, while informative, 
 ---
 
 ## How to Run
-
+```
 1. Clone the repository:
 ```bash
 git clone https://github.com/omoaletsane/quick_cc_fraud.git
@@ -101,10 +101,11 @@ pip install -r requirements.txt
 
 4. Run the model:
 python quick_cc_fraud.py
-
+```
 ---
 
 ## References
+
 * Hajek, P., Abedin, M. Z., & Sivarajah, U. (2022). Fraud detection in mobile payment systems using an XGBoost-based framework. Information Systems Frontiers, 1–19.
 
 * Machine Learning Group – ULB (n.d.). Credit Card Fraud Detection. Dataset.
